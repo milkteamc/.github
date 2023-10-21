@@ -1,31 +1,7 @@
-# 歡迎來到奶茶伺服器的開源中心 👋
-我們會將部分自製產品開源，也歡迎您提出貢獻。 
-## 宣傳文
-奶茶伺服器 —— 帶給您全新的 Minecraft 生存體驗
-
-您是否想要一個有趣、豐富的 Minecraft 生存伺服器？那麼，奶茶伺服器就是您一直在尋找的伺服器！
-無論是野外求生、建立基地，還是與其他玩家一起合作完成任務，奶茶伺服器都滿足您的要求。擁有許多有趣的功能，讓您感受全新的生存體驗。
-
-在奶茶伺服器中，您可以：
-
-1. 建造您的夢想基地：擁有自己的家讓您感到安全與舒適。
-
-2. 執行挑戰：進行各種挑戰，完成任務以贏取獎勵。
-
-3. 經濟交易：通過您貨幣的，在我們的的市集中販賣您的物品。
-
-4. 社交互動：加入公會、建立國家、與其他玩家交朋友。
-
-5. 特殊附魔：使用各種附魔，讓自己變得更加強大。
-
-在奶茶伺服器，您將體驗 Minecraft 的全新生存方式。我們的管理團隊不斷更新、優化遊戲內容，使您擁有最好的遊戲體驗。我們同時也為您提供完善的客戶服務，讓您在遊戲過程中的任何問題都能得到即時解決。
-
-現在就加入奶茶伺服器，開啟精彩的生存之旅！
-
-伺服資訊：
- Java 版本
-無正版驗證
-Minecraft 版本: 1.19.x 
-連線位置 ： milkteamc.org
-Discord群組：
+# Welcome to the open source center of the MilkTeaMC server👋
+We will open source some of our project and welcome your contributions.   
+***
+Maoyue Dev:tm: Discord server:   
+https://discord.gg/uQ4UXANnP2  
+MilkTeaMC Discord server：  
 https://discord.gg/pyNS5xAvMs 
