@@ -3,5 +3,5 @@ We open source some of our project and welcome your contributions.
 ***
 Maoyue Dev™ Discord server:   
 https://discord.gg/uQ4UXANnP2  
-MilkTeaMC Discord server(Traditional Chinese Main)：  
+MilkTeaMC Discord server (Traditional Chinese)：  
 https://discord.gg/22DxRjrXRv  
